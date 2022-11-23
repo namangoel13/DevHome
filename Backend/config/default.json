@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://naman123:naman123@devhome.hssku70.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"63cda02bc52325b56179",
+    "githubSecret":"dfdf7ed62fb311e121e3fa4f19fd4dbe98876f8d"
+
+}
